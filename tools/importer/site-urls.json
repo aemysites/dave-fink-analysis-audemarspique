@@ -154,12 +154,6 @@
       "id": "169f0aad5b2cd8a4726d6d6036cb393e6beb1aeb"
     },
     {
-      "url": "https://www.audemarspiguet.com/com/en/collections.html",
-      "source": "SITEMAPS",
-      "targetPath": "/com/en/collections",
-      "id": "cb93371c55f0ce62761435a8deb6633d6815831f"
-    },
-    {
       "url": "https://www.audemarspiguet.com/com/en/collections/Classique.html",
       "source": "SITEMAPS",
       "targetPath": "/com/en/collections/classique",
@@ -1444,12 +1438,6 @@
       "id": "3d781b254298cc8842a3af2394634e641e6e9102"
     },
     {
-      "url": "https://www.audemarspiguet.com/com/en/watch/apxmarvel-spider-man.html",
-      "source": "SITEMAPS",
-      "targetPath": "/com/en/watch/apxmarvel-spider-man",
-      "id": "5a540aeaa27194f52a98675f91aad0fa5b73b86b"
-    },
-    {
       "url": "https://www.audemarspiguet.com/com/en/watch/apxmarvel.html",
       "source": "SITEMAPS",
       "targetPath": "/com/en/watch/apxmarvel",
@@ -1502,12 +1490,6 @@
       "source": "SITEMAPS",
       "targetPath": "/com/en/watch/code-1159-by-audemars-piguet-selfwinding-pink-gold",
       "id": "506cc53d4fc8d47929b4e90b64681e7115c82c3c"
-    },
-    {
-      "url": "https://www.audemarspiguet.com/com/en/watch/code-1159-universelle.html",
-      "source": "SITEMAPS",
-      "targetPath": "/com/en/watch/code-1159-universelle",
-      "id": "d902c77314334aba621251250a25b78447c96a64"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/watch/dark-blue-ceramic.html",
@@ -1622,42 +1604,6 @@
       "source": "SITEMAPS",
       "targetPath": "/com/en/watch/remaster02",
       "id": "2ae0f40a3efd903f167f8525663ec6117f1ea0d2"
-    },
-    {
-      "url": "https://www.audemarspiguet.com/com/en/watch/royal-oak-50-year-anniversary",
-      "source": "SITEMAPS",
-      "targetPath": "/com/en/watch/royal-oak-50-year-anniversary",
-      "id": "8c078a6b8a7ef18f9669df1f1dc0f361fdc255b0"
-    },
-    {
-      "url": "https://www.audemarspiguet.com/com/en/watch/royal-oak-50-year-anniversary/chronicles",
-      "source": "SITEMAPS",
-      "targetPath": "/com/en/watch/royal-oak-50-year-anniversary/chronicles",
-      "id": "264a88800ef9a5a24bee1adc4130522a2e855d52"
-    },
-    {
-      "url": "https://www.audemarspiguet.com/com/en/watch/royal-oak-50-year-anniversary/design-evolution",
-      "source": "SITEMAPS",
-      "targetPath": "/com/en/watch/royal-oak-50-year-anniversary/design-evolution",
-      "id": "62e571633837d49d0c5eb5cea3a7ab9942fc8906"
-    },
-    {
-      "url": "https://www.audemarspiguet.com/com/en/watch/royal-oak-50-year-anniversary/design-evolution1",
-      "source": "SITEMAPS",
-      "targetPath": "/com/en/watch/royal-oak-50-year-anniversary/design-evolution1",
-      "id": "571a5717569d83d9e9811d3e3d5fc15a9a7cdff0"
-    },
-    {
-      "url": "https://www.audemarspiguet.com/com/en/watch/royal-oak-50-year-anniversary/jumbo",
-      "source": "SITEMAPS",
-      "targetPath": "/com/en/watch/royal-oak-50-year-anniversary/jumbo",
-      "id": "4a37006a62bb01d55f218b4987ff6c96175251d9"
-    },
-    {
-      "url": "https://www.audemarspiguet.com/com/en/watch/royal-oak-50-year-anniversary/novelties",
-      "source": "SITEMAPS",
-      "targetPath": "/com/en/watch/royal-oak-50-year-anniversary/novelties",
-      "id": "73a5f60b3eb74ad4b39864e7f29e7316380a3349"
     },
     {
       "url": "https://www.audemarspiguet.com/com/en/watch/royal-oak-concept-carbon.html",
